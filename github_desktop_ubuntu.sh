@@ -3,6 +3,6 @@
 
 
 ### Uncomment below line if you have not installed gdebi-core before
-sudo wget https://github.com/houkihou/github_desktop_ubuntu/raw/main/GitHubDesktop-linux-2.9.3-linux3.deb
+sudo wget https://github.com/ulmt/github_desktop_ubuntu/raw/main/GitHubDesktop-linux-2.9.3-linux3.deb
 sudo apt-get install gdebi-core 
 sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
